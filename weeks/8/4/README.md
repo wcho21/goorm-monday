@@ -1,6 +1,6 @@
 # 구름나라 청소하기
 
-![Difficulty Medium](https://img.shields.io/badge/Difficulty-Medium-yellow)
+![Difficulty Hard](https://img.shields.io/badge/Difficulty-Hard-red)
 
 8주차 네 번째 문제 [구름나라 청소하기][problem].
 
@@ -151,10 +151,12 @@ print(dp[1][capacity])
 
 ## 복잡도
 
-### 시간
-
 DP 테이블을 각 도시를 행으로 하고 각 쓰레기 용량을 열로 하는 테이블로 생각하자.
 즉 $N$ 개의 도시와 $M$ 의 쓰레기 용량에 대해, $NM$ 개의 칸이 있다.
+
+
+
+### 시간
 
 각 도시 행이 몇 번 접근되는지 살펴보자.
 도시가 터미널 노드라면, 그 도시 행은 `collectTrash()` 함수의 하단 `for` 문에서 3번 접근된다.
