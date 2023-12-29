@@ -1,7 +1,6 @@
 import sys
 sys.setrecursionlimit(100000)
 readline = sys.stdin.readline
-from collections import defaultdict
 
 MAX_NUM_CITIES = int(1e3+1)
 MAX_CAPACITY = int(1e4+1)

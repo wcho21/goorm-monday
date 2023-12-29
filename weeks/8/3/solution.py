@@ -1,7 +1,6 @@
 import sys
 sys.setrecursionlimit(100000)
 readline = sys.stdin.readline
-from collections import defaultdict
 
 EMPTY = -1
 MAX_STICK_LENGTH = int(1e6+1)
