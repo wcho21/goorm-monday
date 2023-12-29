@@ -15,8 +15,10 @@ void solve() {
     int peak;
     cin >> peak;
 
+    // 현재 스택의 개수 출력
     cout << (int)(peakStack.size()) << " ";
 
+    // 현재 봉우리보다 작은 봉우리를 스택에서 버림
     while (true) {
       if (peakStack.empty()) {
         break;
@@ -27,6 +29,8 @@ void solve() {
 
       peakStack.pop_back();
     }
+
+    // 현재 봉우리를 스택에 넣음
     peakStack.push_back(peak);
   }
 

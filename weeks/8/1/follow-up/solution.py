@@ -23,10 +23,14 @@ dp = [FAILED] * goormNumLen
 
 for index in range(goormNumLen-1):
     twoChars = goormNum[index:index+2]
+
+    # 첫 인덱스에서 변환할 수 없다면 실패
     if twoChars not in table and index == 0:
         break
+    # 두 인접한 인덱스에서 연속으로 변환할 수 없다면 실패
     if twoChars not in table and dp[index-1] == FAILED:
         break
+    # 이번 인덱스에서 실패하면 다음 인덱스 체크
     if twoChars not in table:
         continue
 

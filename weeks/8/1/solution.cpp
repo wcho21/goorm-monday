@@ -31,11 +31,13 @@ void solve() {
   }
 
   for (int i = 0; i < goormNumLen-1; ++i) {
+    // 변환할 수 없으면 스킵
     string twoChars { goormNum[i], goormNum[i+1] };
     if (table.count(twoChars) == 0) {
       continue;
     }
 
+    // 변환할 수 있으면 그 결과를 출력
     cout << table[twoChars];
   }
 
