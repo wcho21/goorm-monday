@@ -1,6 +1,6 @@
 # 직사각형 만들기
 
-![Difficulty Hard](https://img.shields.io/badge/Difficulty-Hard-red)
+![Difficulty Medium](https://img.shields.io/badge/Difficulty-Medium-red)
 
 8주차 세 번째 문제 [직사각형 만들기][problem].
 
