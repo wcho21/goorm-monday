@@ -1,6 +1,6 @@
 # 구름이의 여행
 
-![Difficulty Medium](https://img.shields.io/badge/Difficulty-Medium-green)
+![Difficulty Medium](https://img.shields.io/badge/Difficulty-Medium-yellow)
 
 3주차 세 번째 문제 [구름이의 여행][problem].
 

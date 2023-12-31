@@ -1,6 +1,6 @@
 # 순환하는 수로
 
-![Difficulty Hard](https://img.shields.io/badge/Difficulty-Hard-green)
+![Difficulty Hard](https://img.shields.io/badge/Difficulty-Hard-red)
 
 3주차 네 번째 문제 [순환하는 수로][problem].
 
