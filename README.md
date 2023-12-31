@@ -27,8 +27,8 @@ My own solutions and notes for the [Goorm Monday Challange][goorm] (signing in r
 | 3 | 2 | [폴더폰 자판][w3-2] | ![Difficulty Easy](https://img.shields.io/badge/Easy-green) |
 | 3 | 3 | [구름이의 여행][w3-3] | ![Difficulty Medium](https://img.shields.io/badge/Medium-yellow) |
 | 3 | 4 | [순환하는 수로][w3-4] | ![Difficulty Hard](https://img.shields.io/badge/Hard-red) |
-| 4 | 1 | | |
-| 4 | 2 | | |
+| 4 | 1 | [체크 카드][w4-1] | ![Difficulty Easy](https://img.shields.io/badge/Easy-green) |
+| 4 | 2 | [단풍 나무][w4-2] | ![Difficulty Easy](https://img.shields.io/badge/Easy-green) |
 | 4 | 3 | | |
 | 4 | 4 | [주차 구역 나누기][w4-4] | ![Difficulty Hard](https://img.shields.io/badge/Hard-red) |
 | 5 | 1 | | |
@@ -60,6 +60,8 @@ My own solutions and notes for the [Goorm Monday Challange][goorm] (signing in r
 [w3-2]: ./weeks/3/2/README.md
 [w3-3]: ./weeks/3/3/README.md
 [w3-4]: ./weeks/3/4/README.md
+[w4-1]: ./weeks/4/1/README.md
+[w4-2]: ./weeks/4/2/README.md
 [w4-4]: ./weeks/4/4/README.md
 [w6-4]: ./weeks/6/4/README.md
 [w7-1]: ./weeks/7/1/README.md
