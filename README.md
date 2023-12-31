@@ -11,6 +11,67 @@ My own solutions and notes for the [Goorm Monday Challange][goorm] (signing in r
 
 
 
+## Problems
+
+| 주차 | 순번 | 문제 풀이 | 난이도 |
+| -: | -: | :- | :- |
+| 1 | 1 | [경로의 개수][w1-1] | ![Difficulty Easy](https://img.shields.io/badge/Easy-green) |
+| 1 | 2 | [동명이인][w1-2] | ![Difficulty Easy](https://img.shields.io/badge/Easy-green) |
+| 1 | 3 | [최장 맨해튼 거리][w1-3] | ![Difficulty Easy](https://img.shields.io/badge/Easy-green) |
+| 1 | 4 | [소수 찾기][w1-4] | ![Difficulty Easy](https://img.shields.io/badge/Easy-green) |
+| 2 | 1 | [합격자 찾기][w2-1] | ![Difficulty Easy](https://img.shields.io/badge/Easy-green) |
+| 2 | 2 | [문자열 나누기][w2-2] | ![Difficulty Easy](https://img.shields.io/badge/Easy-green) |
+| 2 | 3 | [출석부][w2-3] | ![Difficulty Easy](https://img.shields.io/badge/Easy-green) |
+| 2 | 4 | [폭탄 구현하기][w2-4] | ![Difficulty Easy](https://img.shields.io/badge/Easy-green) |
+| 3 | 1 | [0커플][w3-1] | ![Difficulty Easy](https://img.shields.io/badge/Easy-green) |
+| 3 | 2 | [폴더폰 자판][w3-2] | ![Difficulty Easy](https://img.shields.io/badge/Easy-green) |
+| 3 | 3 | [구름이의 여행][w3-3] | ![Difficulty Medium](https://img.shields.io/badge/Medium-yellow) |
+| 3 | 4 | [순환하는 수로][w3-4] | ![Difficulty Hard](https://img.shields.io/badge/Hard-red) |
+| 4 | 1 | | |
+| 4 | 2 | | |
+| 4 | 3 | | |
+| 4 | 4 | [주차 구역 나누기][w4-4] | ![Difficulty Hard](https://img.shields.io/badge/Hard-red) |
+| 5 | 1 | | |
+| 5 | 2 | | |
+| 5 | 3 | | |
+| 5 | 4 | | |
+| 6 | 1 | | |
+| 6 | 2 | | |
+| 6 | 3 | | |
+| 6 | 4 | [경쟁 배타의 원리][w6-4] | ![Difficulty Medium](https://img.shields.io/badge/Medium-yellow) |
+| 7 | 1 | [UXUI 디자이너][w7-1] | ![Difficulty Easy](https://img.shields.io/badge/Easy-green) |
+| 7 | 2 | [퍼져나가는 소문][w7-2] | ![Difficulty Easy](https://img.shields.io/badge/Easy-green) |
+| 7 | 3 | [구름이의 여행 2][w7-3] | ![Difficulty Medium](https://img.shields.io/badge/Medium-yellow) |
+| 7 | 4 | | |
+| 8 | 1 | [구름 숫자][w8-1] | ![Difficulty Easy](https://img.shields.io/badge/Easy-green) |
+| 8 | 2 | [뒤통수가 따가워][w8-2] | ![Difficulty Easy](https://img.shields.io/badge/Easy-green) |
+| 8 | 3 | [직사각형 만들기][w8-3] | ![Difficulty Medium](https://img.shields.io/badge/Medium-yellow) |
+| 8 | 4 | [구름나라 청소하기][w8-4] | ![Difficulty Hard](https://img.shields.io/badge/Hard-red) |
+
+[w1-1]: ./weeks/1/1/README.md
+[w1-2]: ./weeks/1/2/README.md
+[w1-3]: ./weeks/1/3/README.md
+[w1-4]: ./weeks/1/4/README.md
+[w2-1]: ./weeks/2/1/README.md
+[w2-2]: ./weeks/2/2/README.md
+[w2-3]: ./weeks/2/3/README.md
+[w2-4]: ./weeks/2/4/README.md
+[w3-1]: ./weeks/3/1/README.md
+[w3-2]: ./weeks/3/2/README.md
+[w3-3]: ./weeks/3/3/README.md
+[w3-4]: ./weeks/3/4/README.md
+[w4-4]: ./weeks/4/4/README.md
+[w6-4]: ./weeks/6/4/README.md
+[w7-1]: ./weeks/7/1/README.md
+[w7-2]: ./weeks/7/2/README.md
+[w7-3]: ./weeks/7/3/README.md
+[w8-1]: ./weeks/8/1/README.md
+[w8-2]: ./weeks/8/2/README.md
+[w8-3]: ./weeks/8/3/README.md
+[w8-4]: ./weeks/8/4/README.md
+
+
+
 ## Environment
 
 ### Python
