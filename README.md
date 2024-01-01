@@ -38,8 +38,8 @@ My own solutions and notes for the [Goorm Monday Challange][goorm] (signing in r
 | 5 | 3 | [수 이어 붙이기][w5-3] | ![Difficulty Easy](https://img.shields.io/badge/Easy-green) |
 | 5 | 4 | | |
 | 6 | 1 | [7게임][w6-1] | ![Difficulty Easy](https://img.shields.io/badge/Easy-green) |
-| 6 | 2 | | |
-| 6 | 3 | | |
+| 6 | 2 | [제곱암호][w6-2] | ![Difficulty Easy](https://img.shields.io/badge/Easy-green) |
+| 6 | 3 | [비밀편지][w6-3] | ![Difficulty Easy](https://img.shields.io/badge/Easy-green) |
 | 6 | 4 | [경쟁 배타의 원리][w6-4] | ![Difficulty Medium](https://img.shields.io/badge/Medium-yellow) |
 | 7 | 1 | [UXUI 디자이너][w7-1] | ![Difficulty Easy](https://img.shields.io/badge/Easy-green) |
 | 7 | 2 | [퍼져나가는 소문][w7-2] | ![Difficulty Easy](https://img.shields.io/badge/Easy-green) |
@@ -70,6 +70,8 @@ My own solutions and notes for the [Goorm Monday Challange][goorm] (signing in r
 [w5-1]: ./weeks/5/1/README.md
 [w5-3]: ./weeks/5/3/README.md
 [w6-1]: ./weeks/6/1/README.md
+[w6-2]: ./weeks/6/2/README.md
+[w6-3]: ./weeks/6/3/README.md
 [w6-4]: ./weeks/6/4/README.md
 [w7-1]: ./weeks/7/1/README.md
 [w7-2]: ./weeks/7/2/README.md
