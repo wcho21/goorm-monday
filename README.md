@@ -86,14 +86,15 @@ My own solutions and notes for the [Goorm Monday Challange][goorm] (signing in r
 
 ## Permission on posting problems
 
-다음 [Q&A 답변][qna]에 따라 문제를 게시함을 밝힙니다.
+다음 [Q&A][qna]에 근거해 문제를 게시하였음.
 
 [qna]: https://level.goorm.io/level/challenge
 
 ```
 Q. 챌린지 문제를 블로그나 커뮤니티에 올려도 되나요?
 
-A. 해설 강좌가 공개된 문제는 출처 표기만 명확하다면 자유롭게 공유하셔도 됩니다. 단, 해설과 관련된 내용은 어떠한 경우에도 외부 공유 및 가공하는 행위를 금합니다.
+A. 해설 강좌가 공개된 문제는 출처 표기만 명확하다면 자유롭게 공유하셔도 됩니다.
+   단, 해설과 관련된 내용은 어떠한 경우에도 외부 공유 및 가공하는 행위를 금합니다.
 ```
 
 
