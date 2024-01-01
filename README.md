@@ -34,7 +34,7 @@ My own solutions and notes for the [Goorm Monday Challange][goorm] (signing in r
 | 4 | 3 | [거리두기][w4-3] | ![Difficulty Easy](https://img.shields.io/badge/Easy-green) |
 | 4 | 4 | [주차 구역 나누기][w4-4] | ![Difficulty Hard](https://img.shields.io/badge/Hard-red) |
 | 5 | 1 | [개미와 진딧물][w5-1] | ![Difficulty Easy](https://img.shields.io/badge/Easy-green) |
-| 5 | 2 | | |
+| 5 | 2 | [모래섬][w5-2] | ![Difficulty Medium](https://img.shields.io/badge/Medium-yellow) |
 | 5 | 3 | [수 이어 붙이기][w5-3] | ![Difficulty Easy](https://img.shields.io/badge/Easy-green) |
 | 5 | 4 | | |
 | 6 | 1 | [7게임][w6-1] | ![Difficulty Easy](https://img.shields.io/badge/Easy-green) |
@@ -68,6 +68,7 @@ My own solutions and notes for the [Goorm Monday Challange][goorm] (signing in r
 [w4-3]: ./weeks/4/3/README.md
 [w4-4]: ./weeks/4/4/README.md
 [w5-1]: ./weeks/5/1/README.md
+[w5-2]: ./weeks/5/2/README.md
 [w5-3]: ./weeks/5/3/README.md
 [w6-1]: ./weeks/6/1/README.md
 [w6-2]: ./weeks/6/2/README.md
