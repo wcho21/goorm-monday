@@ -44,7 +44,7 @@ My own solutions and notes for the [Goorm Monday Challange][goorm] (signing in r
 | 7 | 1 | [UXUI 디자이너][w7-1] | ![Difficulty Easy](https://img.shields.io/badge/Easy-green) |
 | 7 | 2 | [퍼져나가는 소문][w7-2] | ![Difficulty Easy](https://img.shields.io/badge/Easy-green) |
 | 7 | 3 | [구름이의 여행 2][w7-3] | ![Difficulty Medium](https://img.shields.io/badge/Medium-yellow) |
-| 7 | 4 | | |
+| 7 | 4 | [이상한 미로][w7-4] | ![Difficulty Hard](https://img.shields.io/badge/Hard-red) |
 | 8 | 1 | [구름 숫자][w8-1] | ![Difficulty Easy](https://img.shields.io/badge/Easy-green) |
 | 8 | 2 | [뒤통수가 따가워][w8-2] | ![Difficulty Easy](https://img.shields.io/badge/Easy-green) |
 | 8 | 3 | [직사각형 만들기][w8-3] | ![Difficulty Medium](https://img.shields.io/badge/Medium-yellow) |
@@ -76,6 +76,7 @@ My own solutions and notes for the [Goorm Monday Challange][goorm] (signing in r
 [w7-1]: ./weeks/7/1/README.md
 [w7-2]: ./weeks/7/2/README.md
 [w7-3]: ./weeks/7/3/README.md
+[w7-4]: ./weeks/7/4/README.md
 [w8-1]: ./weeks/8/1/README.md
 [w8-2]: ./weeks/8/2/README.md
 [w8-3]: ./weeks/8/3/README.md
