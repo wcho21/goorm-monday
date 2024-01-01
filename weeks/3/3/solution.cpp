@@ -4,8 +4,6 @@
 
 using namespace std;
 
-typedef long long ll;
-
 constexpr int MAX_NUM_ISLANDS = int(1e3+1);
 
 vector<int> bridges[MAX_NUM_ISLANDS];
@@ -64,8 +62,8 @@ void solve() {
 }
 
 int main() {
-  ios::sync_with_stdio(0);
-  cin.tie(0);
+  ios::sync_with_stdio(false);
+  cin.tie(nullptr);
 
   solve();
 }

@@ -4,8 +4,6 @@
 
 using namespace std;
 
-typedef long long ll;
-
 constexpr int MAX_LEN_GOORM_NUM = 1001;
 char goormNum[MAX_LEN_GOORM_NUM];
 

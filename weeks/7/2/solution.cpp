@@ -3,8 +3,6 @@
 
 using namespace std;
 
-typedef long long ll;
-
 constexpr int MAX_NUM_PEOPLE = 501;
 
 vector<int> relationships[MAX_NUM_PEOPLE];

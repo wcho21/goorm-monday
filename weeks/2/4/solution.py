@@ -1,5 +1,5 @@
 import sys
-sys.setrecursionlimit(100000)
+sys.setrecursionlimit(10**6)
 readline = sys.stdin.readline
 
 MAX_SIDE_LEN = 20+2 # +2 due to margin

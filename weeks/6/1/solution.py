@@ -1,5 +1,5 @@
 import sys
-sys.setrecursionlimit(100000)
+sys.setrecursionlimit(10**6)
 readline = sys.stdin.readline
 from functools import reduce
 from operator import mul

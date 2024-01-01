@@ -4,8 +4,6 @@
 
 using namespace std;
 
-typedef long long ll;
-
 constexpr int MAX_NUM_ISLANDS = int(1e4+1);
 
 vector<int> bridges[MAX_NUM_ISLANDS];

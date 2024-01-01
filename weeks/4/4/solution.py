@@ -1,5 +1,5 @@
 import sys
-sys.setrecursionlimit(100000)
+sys.setrecursionlimit(10**6)
 readline = sys.stdin.readline
 
 MOD = int(1e8+7)

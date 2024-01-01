@@ -1,5 +1,5 @@
 import sys
-sys.setrecursionlimit(100000)
+sys.setrecursionlimit(10**6)
 readline = sys.stdin.readline
 
 MAX_NUM_EVENTS = int(1e5+1)

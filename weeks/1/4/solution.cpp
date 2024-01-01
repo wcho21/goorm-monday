@@ -2,8 +2,6 @@
 
 using namespace std;
 
-typedef long long ll;
-
 constexpr int MAX_LEN = int(1e5+1);
 
 int nums[MAX_LEN];
@@ -50,8 +48,8 @@ void solve() {
 }
 
 int main() {
-  ios::sync_with_stdio(0);
-  cin.tie(0);
+  ios::sync_with_stdio(false);
+  cin.tie(nullptr);
 
   solve();
 }

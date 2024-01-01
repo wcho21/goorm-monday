@@ -4,10 +4,7 @@
 
 using namespace std;
 
-typedef long long ll;
-
-#define NULL_NODE 0
-
+constexpr int NULL_NODE = 0;
 constexpr int MAX_NUM_TANKS = int(1e3+1);
 
 bool visited[MAX_NUM_TANKS];
@@ -79,8 +76,8 @@ void solve() {
 }
 
 int main() {
-  ios::sync_with_stdio(0);
-  cin.tie(0);
+  ios::sync_with_stdio(false);
+  cin.tie(nullptr);
 
   solve();
 }

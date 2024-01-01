@@ -5,7 +5,7 @@
 
 using namespace std;
 
-#define MAX_NUM_ROWS int(1e4+1)
+constexpr int MAX_NUM_ROWS = int(1e4+1);
 
 pair<string, double> rows[MAX_NUM_ROWS];
 
@@ -25,8 +25,8 @@ void solve() {
 }
 
 int main() {
-  ios::sync_with_stdio(0);
-  cin.tie(0);
+  ios::sync_with_stdio(false);
+  cin.tie(nullptr);
 
   solve();
 }
