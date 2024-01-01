@@ -100,9 +100,10 @@ $N$ 개의 숫자가 입력된다.
 
 에라토스테네스의 체는 소수마다 배수를 지운다.
 즉 2의 배수 $N/2$ 개, 그 다음 3의 배수 $N/3$개를 확인하며 지워나간다.
-그런데 [소수를 분모로 하는 분수의 합][sum-primes]인 $1/2 + 1/3 + 1/5 + \dots$는 $O(\log \log N)$ 만큼 빠르게 증가한다고 알려져있다.
+그런데 [소수를 분모로 하는 분수의 합][sum-primes]인 $1/2 + 1/3 + 1/5 + \dots + 1/M$은 $O(\log \log M)$ 만큼 빠르게 증가한다고 알려져있다.
 (소수에 대한 정리는 대체로 어렵기 때문에 여기서는 결과만 이용한다.)
-따라서 배수를 지우는 횟수 $N/2 + N/3 + N/5 + \dots$는 곧 $O(N \log \log N)$ 이다.
+따라서 배수를 지우는 횟수 $N/2 + N/3 + N/5 + \dots + N/M$은 곧 $O(N \log \log M)$ 이다.
+여기서 $M$은 기껏해야 $\sqrt{N}$ 이다.
 즉 에라토스테네스의 체는 시간을 $O(N \log \log N)$ 만큼 소요한다.
 
 [sum-primes]: https://en.wikipedia.org/wiki/Divergence_of_the_sum_of_the_reciprocals_of_the_primes
