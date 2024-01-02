@@ -16,7 +16,7 @@ My own solutions and notes for the [Goorm Monday Challange][goorm] (signing in r
 | 주차 | 순번 | 문제 풀이 | 난이도 |
 | -: | -: | :- | :- |
 | 0 | 1 | [단어장 만들기][w0-1] | ![Difficulty Easy](https://img.shields.io/badge/Easy-green) |
-| 0 | 2 | | |
+| 0 | 2 | [카드 교환하기][w0-2] | ![Difficulty Hard](https://img.shields.io/badge/Hard-red) |
 | 1 | 1 | [경로의 개수][w1-1] | ![Difficulty Easy](https://img.shields.io/badge/Easy-green) |
 | 1 | 2 | [동명이인][w1-2] | ![Difficulty Easy](https://img.shields.io/badge/Easy-green) |
 | 1 | 3 | [최장 맨해튼 거리][w1-3] | ![Difficulty Easy](https://img.shields.io/badge/Easy-green) |
@@ -51,6 +51,7 @@ My own solutions and notes for the [Goorm Monday Challange][goorm] (signing in r
 | 8 | 4 | [구름나라 청소하기][w8-4] | ![Difficulty Hard](https://img.shields.io/badge/Hard-red) |
 
 [w0-1]: ./weeks/0/1/README.md
+[w0-2]: ./weeks/0/2/README.md
 [w1-1]: ./weeks/1/1/README.md
 [w1-2]: ./weeks/1/2/README.md
 [w1-3]: ./weeks/1/3/README.md
