@@ -1,5 +1,7 @@
 # goorm-monday
 
+![Progress Badge](https://img.shields.io/badge/Progress-100%25%20(All%20Solved)-green)
+
 My own solutions and notes for the [Goorm Monday Challange][goorm] (signing in required).
 
 [구름 알고리즘 먼데이 챌린지][goorm]에 대한 풀이 코드와 노트.
