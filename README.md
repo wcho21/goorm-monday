@@ -1,6 +1,6 @@
 # goorm-monday
 
-![Progress Badge](https://img.shields.io/badge/Progress-100%25%20(All%20Solved)-green)
+![Progress Badge](https://img.shields.io/badge/Progress-100%25%20(All%20Solved)-blue)
 
 My own solutions and notes for the [Goorm Monday Challange][goorm] (signing in required).
 
@@ -105,21 +105,40 @@ A. 해설 강좌가 공개된 문제는 출처 표기만 명확하다면 자유�
 
 ## Environment
 
-### Python
+### 구름 환경
 
-```bash
+- __Python__: Python 3.9.6 (CPython)
+- __C++__: clang++ 11.1.0
+
+
+### 테스트 로컬 환경
+
+```
 $ python3 --version
 Python 3.11.6
-```
-
-### C++
-
-```bash
-$ clang --version
+$ clang++ --version
 Apple clang version 15.0.0 (clang-1500.0.40.1)
 Target: arm64-apple-darwin23.1.0
 Thread model: posix
 InstalledDir: /Library/Developer/CommandLineTools/usr/bin
+$ neofetch
+                    'c.          dev@cmba.local
+                 ,xNMM.          -----------------------
+               .OMMMMo           OS: macOS 14.1.2 23B92 arm64
+               OMMM0,            Host: Mac14,2
+     .;loddo:' loolloddol;.      Kernel: 23.1.0
+   cKMMMMMMMMMMNWMMMMMMMMMM0:    Uptime: 4 days, 1 hour, 9 mins
+ .KMMMMMMMMMMMMMMMMMMMMMMMWd.    Packages: 165 (brew)
+ XMMMMMMMMMMMMMMMMMMMMMMMX.      Shell: bash 3.2.57
+;MMMMMMMMMMMMMMMMMMMMMMMM:       Resolution: 1470x956
+:MMMMMMMMMMMMMMMMMMMMMMMM:       DE: Aqua
+.MMMMMMMMMMMMMMMMMMMMMMMMX.      WM: Quartz Compositor
+ kMMMMMMMMMMMMMMMMMMMMMMMMWd.    WM Theme: Blue (Dark)
+ .XMMMMMMMMMMMMMMMMMMMMMMMMMMk   Terminal: tmux
+  .XMMMMMMMMMMMMMMMMMMMMMMMMK.   CPU: Apple M2
+    kMMMMMMMMMMMMMMMMMMMMMMd     GPU: Apple M2
+     ;KMMMMMMMWXXWMMMMMMMk.      Memory: 1294MiB / 8192MiB
+       .cooc,.    .,coo:.
 ```
 
-Build flags: `-std=c++17`
+빌드 플래그: `-std=c++17`
